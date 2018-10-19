@@ -1,6 +1,6 @@
 document.addEventListener("DOMContentLoaded", function() {
 
-
+var a;
 (function () { 
 
 document.querySelector("#tab1-0").addEventListener("click", function(event) {
