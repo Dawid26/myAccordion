@@ -2,7 +2,8 @@ document.addEventListener("DOMContentLoaded", function() {
 
 var a;
 (function () { 
-let tab =document.querySelectorAll("#tab1-0");
+    
+let tab =document.querySelector(".gs-faq-widget button");
 tab.addEventListener("click", function(event) {
     
 
